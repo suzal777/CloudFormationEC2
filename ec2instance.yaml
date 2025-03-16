@@ -4,4 +4,4 @@ Resources:
     Type: AWS::EC2::Instance
     Properties:
       ImageId: ami-05c179eced2eb9b5b
-      InstanceType: t2.small
+      InstanceType: t2.micro
